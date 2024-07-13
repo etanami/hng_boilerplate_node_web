@@ -254,3 +254,17 @@ All API endpoints can be referenced in the [API Reference](API_REFERENCE.md) doc
 ## Versioning
 
 This project is versioned to ensure backward compatibility and easy maintenance. The current version is [version].
+
+## Team Bolt API & DB Design
+
+In this branch, the team has created an elaborate API structure that can be used for any boilerplate project. The first image below is the DB design, while the link is the hosted link of the `index.html` file generated from swagger.
+
+### DB Design
+
+https://dbdiagram.io/d/6692666e9939893daed4cdb3
+
+### API Link
+
+https://etanami.github.io/hosting-pages/
+
+Thank you and God bless!
